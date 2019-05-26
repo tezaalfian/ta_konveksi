@@ -16,7 +16,6 @@
     <?php $this->load->view('partial/admin/sidebar');?>
 
 <!-- CONTENT -->
-
     <div class="content-wrapper">
         <!-- Content Header (Page header) -->
         <section class="content-header">
@@ -34,7 +33,6 @@
 
         <!-- /.content -->
     </div>
-
 <!-- END CONTENT -->
 
 <!-- FOOTER -->
